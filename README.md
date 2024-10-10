@@ -1,6 +1,5 @@
 # This is my personal portfolio website
-
-this website is to display my web development skills and also display my other skills
+Hi, it's still under development, the initial build is uploaded
 
 
 
