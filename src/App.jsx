@@ -33,7 +33,7 @@ const router = createBrowserRouter([
   },
 ]);
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
+
 
 export default App;
